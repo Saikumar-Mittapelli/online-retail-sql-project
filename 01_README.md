@@ -1,34 +1,36 @@
-###Online Retail SQL Analytics Project
+Online Retail SQL Analytics Project
 
-This project analyzes an E‑Commerce transactional dataset using SQL. It includes:
+This project focuses on analyzing an e-commerce transactional dataset using SQL to uncover meaningful business insights. The analysis covers the complete data workflow, from data preparation to advanced customer segmentation.
 
-Data cleaning
+
+**Key Components**
+
+Data cleaning and preprocessing
 
 Exploratory Data Analysis (EDA)
 
-Customer analytics
+Customer behavior analysis
 
-Sales analytics
+Sales performance analysis
 
-RFM segmentation
-
-
-###Tech Used
-
-MySQL / PostgreSQL / BigQuery
-
-Excel dataset
+RFM (Recency, Frequency, Monetary) segmentation
 
 
+**Tech Stack**
 
-###Key Insights
+SQL (MySQL / PostgreSQL / BigQuery)
 
-Top customers and countries
+Excel (source dataset)
 
-Monthly revenue trends
 
-Repeat purchase behavior
+**Key Insights**
 
-Customer lifetime value (CLV)
+Identification of top customers and high-performing countries
 
-RFM segmentation for marketing
+Monthly revenue and sales trends
+
+Repeat purchase and retention behavior
+
+Customer Lifetime Value (CLV) analysis
+
+RFM-based customer segmentation for targeted marketing strategies
